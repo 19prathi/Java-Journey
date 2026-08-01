@@ -10,6 +10,6 @@ public class Datatypes {
         System.out.println(b);
         System.out.println(q);
         System.out.println(p);
-    }
-    
+    }   
 }
+    
