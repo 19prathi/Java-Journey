@@ -1,5 +1,3 @@
----
-
 ## ✅ Topics Learned
 
 ### 🟢 Beginner
@@ -31,8 +29,6 @@
 - [ ] MySQL + JDBC
 - [ ] React (Frontend)
 
----
-
 ## 🗂️ Folder Naming Convention
 
 | Folder | Contains |
@@ -41,4 +37,4 @@
 | `02-Basic programs` | Small practice programs |
 | `03-OOP` *(add later)* | Classes, inheritance, etc. |
 
----
+*Updated regularly as I learn. ⭐ Star if you're on a similar journey!*
