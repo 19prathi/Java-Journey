@@ -46,6 +46,4 @@
 | `05-DSA` *(coming soon)* | Recursion, Searching, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming |
 
 
-
-
 *Updated regularly as I learn. ⭐ Star if you're on a similar journey!*
