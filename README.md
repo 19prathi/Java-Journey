@@ -3,7 +3,7 @@
 ### 🟢 Beginner
 - [x] Variables and Datatypes
 - [x] Operators
-- [ ] Conditionals (if/else, switch)
+- [x] Conditionals (if/else, switch)
 - [ ] Loops (for, while, do-while)
 - [ ] patterns & Functions
 
