@@ -5,7 +5,6 @@ public class Nsum {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int sum = 0;
-
         int i = 1;
         while (i <= n) {
             sum += i;
@@ -13,5 +12,4 @@ public class Nsum {
         }
         System.out.println("Sum is " + sum);
     }
-
 }
