@@ -3,16 +3,13 @@ public class PrimeNumber {
     public static void main(String[] args){
         Scanner sc =  new Scanner(System.in);
         int n = sc.nextInt();
-        if (n <= 1) {
-            System.out.println("n is Not Prime");
-        } else if (n == 2) {
+        if (n ==2 ) {
             System.out.println("n is Prime");
-        } else {
+        }else {
             boolean isPrime = true;
-            for (int i = 2; i <= Math.sqrt(n); i++) {
+            for (int i = 2; i <= n-1; i++) {
                 if (n % i == 0) {
                     isPrime = false;
-                    break;
                 }
             }
             if (isPrime) {
@@ -22,7 +19,4 @@ public class PrimeNumber {
             }
         }
     }
-
 }
-
-      
