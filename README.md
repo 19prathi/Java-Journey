@@ -4,7 +4,7 @@
 - [x] Variables and Datatypes
 - [x] Operators
 - [x] Conditionals (if/else, switch)
-- [ ] Loops (for, while, do-while)
+- [x] Loops (for, while, do-while)
 - [ ] patterns & Functions
 
 ### 🔵 Core Java *(coming soon)*
