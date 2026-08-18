@@ -5,7 +5,7 @@
 - [x] Operators
 - [x] Conditionals (if/else, switch)
 - [x] Loops (for, while, do-while)
-- [ ] patterns & Functions
+- [x] patterns & Functions
 
 ### 🔵 Core Java *(coming soon)*
 - [ ] Arrays
