@@ -8,7 +8,7 @@
 - [x] patterns & Functions
 
 ### 🔵 Core Java *(coming soon)*
-- [ ] Arrays
+- [x] Arrays
 - [ ] Sorting
 - [ ] Strings
 - [ ] Object-Oriented Programming(Classes, Objects)
